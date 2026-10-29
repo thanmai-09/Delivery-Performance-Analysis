@@ -1,1 +1,6 @@
 .ipynb_checkpoints/ 
+
+# Ignore report documents
+*.docx
+*.pdf
+
